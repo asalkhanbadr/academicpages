@@ -29,7 +29,8 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "blue" #"dark" (default), "light"
+    colorscheme          : #"dark" (default), "light"
+    color                : blue
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
