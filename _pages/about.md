@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align: center;">
+<div style="text-align: justify">
 Hi! I am Asal Khanbadr. Welcome to my academic website! I majored in computer engineering. I received my Bachelor's degree from [Karaj Azad University]( http://www.kiau.ac.ir/en) in the field of computer software engineering. Then, pursued my higher education in computer architecture engineering [Kharazmi University](https://khu.ac.ir/index.php?sid=1&slc_lang=en) and graduated with flying colors with a thesis graded as "excellent." In my thesis, I proposed a novel scoring method to enhance the lifetime of flash chips in SSDs. Two related publications are [a journal paper]( https://link.springer.com/article/10.1007\%2Fs11227-020-03250-w) and [a conference paper]( https://ieeexplore.ieee.org/abstract/document/9140084) presented by me at the [2020 RTEST symposium]( http://cs.ipm.ac.ir/Rtest/2020/) held in Tehran.
 
 In the last year of my Academic life, my brother, Sohrab Khanbadr also a computer engineer, and I collaborated on a machine learning project. This not only made me more rounded as a person, but it also clarified my further education path. As of now, I will try to play a part in enhancing the life quality of everyday people with the helping hand of machine learning. 
-</p>
+</div>
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
