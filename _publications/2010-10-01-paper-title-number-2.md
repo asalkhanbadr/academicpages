@@ -2,7 +2,7 @@
 title: "The SBM: A Victim Block Selection Method Based on Min-heap Priority Queues"
 collection: publications
 permalink: /publication/
-date: 
+date: 2020-07-15
 venue: ' '
 paperurl: ' '
 link: 'https://ieeexplore.ieee.org/abstract/document/9140084'
