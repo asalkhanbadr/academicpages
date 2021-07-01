@@ -1,17 +1,31 @@
 ---
-title: " "
+title: "A novel method for victim block selection for NAND flash-based solid state drives based on scoring"
 collection: publications
-permalink:  
-excerpt: ' '
-date: 2020-3-16 
-venue: ' '
+permalink: /publication/
+date: 2020-03-16
+venue: 'The Journal of Supercomputing'
 paperurl: ' '
-citation: ' '
+link: 'https://link.springer.com/article/10.1007/s11227-020-03250-w'
+code: ''
+github: ''
+citation: 'A. Khanbadr, M. B. Marvasti, S. A. Asghari, S. Khanbadr, and A. M. Rahmani. &quot;A novel method for victim block
+selection for NAND flash-based solid state drives based on scoring.&quot; <i>The Journal of Supercomputing (2020): 1-26</i>'
 --- 
-* A. Khanbadr, M. B. Marvasti, S. A. Asghari, S. Khanbadr, and A. M. Rahmani, ” A novel method for victim block
-selection for NAND flash-based solid state drives based on scoring, ” The Journal of Supercomputing (2020): 1-26 ([The paper's url](https://link.springer.com/article/10.1007/s11227-020-03250-w))
+<!-- * A. Khanbadr, M. B. Marvasti, S. A. Asghari, S. Khanbadr, and A. M. Rahmani, ” A novel method for victim block
+selection for NAND flash-based solid state drives based on scoring, ” The Journal of Supercomputing (2020): 1-26 ([The paper's url](https://link.springer.com/article/10.1007/s11227-020-03250-w)) -->
 
-
+<!-- ---
+title: "A Latent Variable Approach to Measuring and Explaining Peace Agreement Strength"
+collection: publications
+permalink: /publication/2021-peace-agreement-strength
+date: 2021-01-27
+venue: 'Political Science Research and Methods'
+paperurl: '/files/pdf/research/Agreement Strength Accepted.pdf'
+link: 'https://doi.org/10.1017/psrm.2019.23'
+code: 'https://doi.org/10.7910/DVN/VUY8UI'
+github: 'https://github.com/jayrobwilliams/Peace-Agreement-Strength'
+citation: 'Williams, Rob, Daniel J. Gustafson, Stephen E. Gent, and Mark J.C. Crescenzi. 2021. &quot;A Latent Variable Approach to Measuring and Explaining Peace Agreement Strength.&quot; <i>Political Science Research and Methods</i> 9(1): 89-105. doi:10.1017/psrm.2019.23'
+---  -->
 <!-- ---
 title: "Paper Title Number 1"
 collection: publications
