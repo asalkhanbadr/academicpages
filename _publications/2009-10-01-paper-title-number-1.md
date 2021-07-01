@@ -1,6 +1,6 @@
 ---
-title: "A. Khanbadr, M. B. Marvasti, S. A. Asghari, S. Khanbadr, and A. M. Rahmani, ” A novel method for victim block
-selection for NAND flash-based solid state drives based on scoring, ” The Journal of Supercomputing (2020): 1-26"
+title: 'A. Khanbadr, M. B. Marvasti, S. A. Asghari, S. Khanbadr, and A. M. Rahmani, ” A novel method for victim block
+selection for NAND flash-based solid state drives based on scoring, ” The Journal of Supercomputing (2020): 1-26'
 collection: 
 permalink: 
 excerpt: ''
