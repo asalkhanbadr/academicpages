@@ -32,12 +32,12 @@ Skills
 ======
 * I am comfortable with:
   * C/C++ programming
-  * Blender
+  * LateX
   * Adobe Illustrator
   * Adobe Photoshop
-  * LateX
   * VHDL/Verilog
   * Quartus/ModelSim
+  * Blender
 
 * I am currently sharpening the following skills:
   * Java programming (spring boot framework)
