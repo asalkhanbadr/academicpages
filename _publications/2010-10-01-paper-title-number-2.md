@@ -10,8 +10,8 @@ code: ''
 github: ''
 citation: 'A. Khanbadr, M. B. Marvasti, S. A. Asghari, and S. Khanbadr. &quot;The SBM: A Victim Block Selection Method Based on Min-heap Priority Queues.&quot; <i>In 2020 CSI/CPSSI International Symposium on Real-Time and Embedded Systems and Technologies (RTEST)</i>, pp. 1-8. IEreal published EE, 2020'
 --- 
-<!--real published date: 2020-07-15-->
-<!-- A. Khanbadr, M. B. Marvasti, S. A. Asghari, and S. Khanbadr, ” The SBM: A Victim Block Selection Method
+
+<!--real published date: 2020-07-15, A. Khanbadr, M. B. Marvasti, S. A. Asghari, and S. Khanbadr, ” The SBM: A Victim Block Selection Method
 Based on Min-heap Priority Queues,” In 2020 CSI/CPSSI International Symposium on Real-Time and Embedded
 Systems and Technologies (RTEST), pp. 1-8. IEEE, 2020, -->
 
