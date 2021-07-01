@@ -55,16 +55,25 @@ Soft Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+<!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+*A. Khanbadr, M. B. Marvasti, S. A. Asghari, S. Khanbadr, and A. M. Rahmani, ” A novel method for victim block
+selection for NAND flash-based solid state drives based on scoring, ” The Journal of Supercomputing (2020): 1-26, ([paper url](https://link.springer.com/article/10.1007/s11227-020-03250-w))
+ 
+*A. Khanbadr, M. B. Marvasti, S. A. Asghari, and S. Khanbadr, ” The SBM: A Victim Block Selection Method
+Based on Min-heap Priority Queues,” In 2020 CSI/CPSSI International Symposium on Real-Time and Embedded
+Systems and Technologies (RTEST), pp. 1-8. IEEE, 2020,([paper url](https://ieeexplore.ieee.org/abstract/document/9140084))
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
+<!--   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+* I presented  "[The SBM: A Victim Block Selection Method Based on Min-heap Priority Queues]( The SBM: A Victim Block Selection Method Based on Min-heap Priority Queues | IEEE Conference Publication | IEEE Xplore)" in 2020 CSI/CPSSI International Symposium on Real-Time and Embedded Systems and Technologies (RTEST)
+   * Authors of the corresponding conference paper: A. Khanbadr, M. B. Marvasti, S. A. Asghari, S. Khanbadr
+   * The video of the presentation is available [here]( http://cs.ipm.ac.ir/Rtest/2020/program/) (Paper #6)
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
