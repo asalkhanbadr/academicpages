@@ -15,9 +15,10 @@ Education
 * M.Sc. in computer engineering, computer architecture, Kharazmi University, 2015
 * B.Sc. in computer engineering, Software, Islamic Azad University Karaj Branch, 2019
 
-Work experience
+Research Assistantship
 ======
-* 2016-2020: Research Assistant
+* 2016-2020: Research Assistant,Computer Laboratory, Faculty of Electrical and Computer Engineering, Kharazmi University,
+Tehran, Iran.
   * Kharazmi University
   * Duties included: proposing methods that enhance the lifetime of flash memories in SSDs
   * Supervisor: Dr. Mohammadreza Binesh Marvasti
@@ -70,7 +71,7 @@ Talks
 <!--   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
-* I presented  "[The SBM: A Victim Block Selection Method Based on Min-heap Priority Queues](https://ieeexplore.ieee.org/abstract/document/9140084)" in 2020 CSI/CPSSI International Symposium on Real-Time and Embedded Systems and Technologies (RTEST)
+* I presented  "[The SBM: A Victim Block Selection Method Based on Min-heap Priority Queues](https://ieeexplore.ieee.org/abstract/document/9140084)" in 2020 CSI/CPSSI International Symposium on Real-Time and Embedded Systems and Technologies [(RTEST)](http://cs.ipm.ac.ir/Rtest/2020/)
    * Authors of the corresponding conference paper: A. Khanbadr, M. B. Marvasti, S. A. Asghari, S. Khanbadr
    * The video of the presentation is available [here]( http://cs.ipm.ac.ir/Rtest/2020/program/) (Paper #6)
 
