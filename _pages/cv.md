@@ -11,23 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* M.Sc. in computer engineering, computer architecture, Kharazmi University, 2015
+* B.Sc. in computer engineering, Software, Islamic Azad University Karaj Branch, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2020: Research Assistant
+  * Kharazmi University
+  * Duties included: enhancing the lifetime of flashmemorie in SSDs
+  * Supervisor: Dr. Mohammadreza Binesh Marvasti
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
+======
+* I am comfortable with:
+  * C/C++ programming
+  * Blender
+  * Adobe Illustrator
+  * Adobe Photoshop
+  * LateX
+  * VHDL/Verilog
+  * Quartus/ModelSim
+
+* I am currently sharpening the following skills:
+  * Java programming (spring boot framework)
+  * Python programming
+
+* Skill 3
+ 
+Soft Skills
 ======
 * Skill 1
 * Skill 2
