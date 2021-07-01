@@ -2,7 +2,7 @@
 title: "A novel method for victim block selection for NAND flash-based solid state drives based on scoring"
 collection: publications
 permalink: /publication/
-date: 2020-03-19
+date: 2020-03-16
 venue: 'The Journal of Supercomputing'
 paperurl: ' '
 link: 'https://link.springer.com/article/10.1007/s11227-020-03250-w'
