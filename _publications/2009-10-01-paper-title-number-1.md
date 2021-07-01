@@ -1,17 +1,18 @@
 ---
-title: "A novel method for victim block selection for NAND flash-based solid state drives based on scoring"
+title: "The SBM: A Victim Block Selection Method Based on Min-heap Priority Queues"
 collection: publications
 permalink: /publication/
-date: 2020-03-16
-venue: 'The Journal of Supercomputing'
+date: 2020-07-15
+venue: ' '
 paperurl: ' '
-link: 'https://link.springer.com/article/10.1007/s11227-020-03250-w'
+link: 'https://ieeexplore.ieee.org/abstract/document/9140084'
 code: ''
 github: ''
-citation: 'A. Khanbadr, M. B. Marvasti, S. A. Asghari, S. Khanbadr, and A. M. Rahmani. &quot;A novel method for victim block selection for NAND flash-based solid state drives based on scoring.&quot; <i>The Journal of Supercomputing</i>, 2020'
+citation: 'A. Khanbadr, M. B. Marvasti, S. A. Asghari, and S. Khanbadr. &quot;The SBM: A Victim Block Selection Method Based on Min-heap Priority Queues.&quot; <i>In 2020 CSI/CPSSI International Symposium on Real-Time and Embedded Systems and Technologies (RTEST)</i>, pp. 1-8. IEEE, 2020'
 --- 
-<!-- * A. Khanbadr, M. B. Marvasti, S. A. Asghari, S. Khanbadr, and A. M. Rahmani, ” A novel method for victim block
-selection for NAND flash-based solid state drives based on scoring, ” The Journal of Supercomputing 2020([The paper's url](https://link.springer.com/article/10.1007/s11227-020-03250-w)) -->
+<!-- A. Khanbadr, M. B. Marvasti, S. A. Asghari, and S. Khanbadr, ” The SBM: A Victim Block Selection Method
+Based on Min-heap Priority Queues,” In 2020 CSI/CPSSI International Symposium on Real-Time and Embedded
+Systems and Technologies (RTEST), pp. 1-8. IEEE, 2020, -->
 
 <!-- ---
 title: "A Latent Variable Approach to Measuring and Explaining Peace Agreement Strength"
