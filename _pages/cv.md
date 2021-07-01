@@ -74,12 +74,14 @@ Talks
    * Authors of the corresponding conference paper: A. Khanbadr, M. B. Marvasti, S. A. Asghari, S. Khanbadr
    * The video of the presentation is available [here]( http://cs.ipm.ac.ir/Rtest/2020/program/) (Paper #6)
 
-Teaching
+Teaching Assistantship
 ======
-  <ul>{% for post in site.teaching %}
+<!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> -->
+  * Advanced Computer Architecture Course, Instructor: Dr. Mohammadreza Binesh Marvasti, Fall 2017
+   
+<!--   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
