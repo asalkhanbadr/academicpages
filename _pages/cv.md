@@ -19,7 +19,7 @@ Work experience
 ======
 * 2016-2020: Research Assistant
   * Kharazmi University
-  * Duties included: enhancing the lifetime of flashmemorie in SSDs
+  * Duties included: enhancing the lifetime of flash memories in SSDs
   * Supervisor: Dr. Mohammadreza Binesh Marvasti
 
 <!-- * Fall 2015: Research Assistant
