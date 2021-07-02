@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 
-* M.Sc. in computer engineering, computer architecture, Kharazmi University, 2015
-* B.Sc. in computer engineering, Software, Islamic Azad University Karaj Branch, 2019
+* M.Sc. in computer engineering, computer architecture, Kharazmi University, 2016-2019
+* B.Sc. in computer engineering, Software, Islamic Azad University Karaj Branch, 2011-2015
 
 Research Assistantship
 ======
