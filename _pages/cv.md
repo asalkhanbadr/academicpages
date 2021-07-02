@@ -32,11 +32,11 @@ Skills
 ======
 * I am comfortable with:
   * C/C++ programming
+  * VHDL/Verilog
+  * Quartus/ModelSim
   * LateX
   * Adobe Illustrator
   * Adobe Photoshop
-  * VHDL/Verilog
-  * Quartus/ModelSim
   * Blender
 
 * I am currently sharpening the following skills:
