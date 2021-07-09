@@ -85,11 +85,11 @@ analytics:
 author:
   name             : "Asal Khanbadr"
   avatar           : "700851.png"
-  bio              : "M.Sc. graduate in computer engineering-computer architecture"
+  bio              : "Researcher in machine learning"#"M.Sc. graduate in computer engineering-computer architecture"
   location         : "Tehran, Iran"
   employer         :
   pubmed           : #"https: /www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=_2QmmIsAAAAJ" #"http://yourfullgooglescholarurl.com"
   email            : asal.khanbadr@gmail.com
   researchgate     : https://www.researchgate.net/profile/Asal-Khanbadr
   uri              :
